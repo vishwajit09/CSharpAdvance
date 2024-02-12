@@ -1,0 +1,11 @@
+Restaurant Receipt
+Date: 08-02-2024 18:24:26
+Table Number: 1
+Number of Seats: 4
+
+Order Details:
+2 x Cocacola - $3
+5 x pepsi - $8.5
+4 x Cocacola - $6
+
+Total Amount: $17.5

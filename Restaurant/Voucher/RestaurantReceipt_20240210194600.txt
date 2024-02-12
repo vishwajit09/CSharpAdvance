@@ -1,0 +1,10 @@
+Restaurant Receipt
+Date: 10-02-2024 19:46:00
+Table Number: 2
+Number of Seats: 2
+
+Order Details:
+1 x pasta - $5
+1 x pepsi - $3
+
+Total Amount: $8

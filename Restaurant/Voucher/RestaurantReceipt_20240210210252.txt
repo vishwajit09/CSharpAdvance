@@ -1,0 +1,8 @@
+Restaurant Receipt
+Date: 10-02-2024 21:02:52
+Table Number: 1
+
+Order Details:
+| pasta     | 2         | 10         |
+| Beer      | 3         | 12         |
++-------------------------------------

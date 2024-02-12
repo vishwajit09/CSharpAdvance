@@ -1,0 +1,10 @@
+Restaurant Receipt
+Date: 10-02-2024 19:11:18
+Table Number: 3
+Number of Seats: 5
+
+Order Details:
+2 x pasta - $10
+1 x Cocacola - $2
+
+Total Amount: $12
