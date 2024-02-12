@@ -1,9 +1,0 @@
-Restaurant Receipt
-Date: 10-02-2024 20:38:46
-Table Number: 6
---------------------------------------------------
-
-Order Details:
-Quantity: -1 x pizza - Price: $4 - $4
-Quantity: -5 x pepsi - Price: $3 - $15
---------------------------------------------------

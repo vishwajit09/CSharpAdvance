@@ -1,3 +1,0 @@
-﻿pizza,4.00
-pasta,5.00
-burger,3.0
