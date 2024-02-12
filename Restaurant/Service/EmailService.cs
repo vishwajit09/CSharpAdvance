@@ -14,7 +14,7 @@ namespace Restaurant.Service
         public void SendEmail(string subject, string body)
         {
             string senderEmail = "tesingvisemail@gmail.com";
-            string senderPassword = "nsnw pbbt nlye tsif";
+            string senderPassword = "********";
             string receiverEmail = "tesingvisemail@gmail.com";
 
 
