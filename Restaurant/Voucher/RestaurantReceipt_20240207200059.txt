@@ -1,0 +1,10 @@
+Restaurant Receipt
+Date: 07-02-2024 20:00:59
+Table Number: 1
+Number of Seats: 4
+
+Order Details:
+1 x pasta - $5.1
+2 x pasta - $10.2
+
+Total Amount: $15.299999999999999

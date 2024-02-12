@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Lamda_Linq</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AnonymousMethods\AnonymousMethods.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Task3\" />
+  </ItemGroup>
+
+</Project>

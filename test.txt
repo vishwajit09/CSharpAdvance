@@ -1,0 +1,6 @@
+Hexagon - Area 259.8076211353316
+Quadrilateral - Area 67.88225099390856
+Triangle - Area 60
+Hexagon - Area 259.8076211353316
+Quadrilateral - Area 67.88225099390856
+17-01-2024 19:55:25 -Log --Triangle - Area 60

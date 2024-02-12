@@ -1,0 +1,10 @@
+Restaurant Receipt
+Date: 08-02-2024 22:15:48
+Table Number: 1
+Number of Seats: 4
+
+Order Details:
+1 x pizza - $4.99
+1 x Cocacola - $1.5
+
+Total Amount: $6.49
