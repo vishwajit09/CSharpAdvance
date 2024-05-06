@@ -1,0 +1,10 @@
+Restaurant Receipt
+Date: 08-02-2024 18:27:31
+Table Number: 3
+Number of Seats: 5
+
+Order Details:
+1 x Beer - $1.8
+1 x Beer - $1.8
+
+Total Amount: $3.6

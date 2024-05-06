@@ -1,0 +1,15 @@
+      Customer Receipt         
+
+Date: 12-02-2024 19:34:16 
+Table Number: 2 
++-----------+-----------+------------+
+| Item      | Quantity  | Price      |
++-----------+-----------+------------+
+
+Order Details:
+| pasta     | 1         | 5          |
+| pepsi     | 2         | 6          |
+| pepsi     | 2         | 6          |
++-------------------------------------
+Total Amount:            $17
+

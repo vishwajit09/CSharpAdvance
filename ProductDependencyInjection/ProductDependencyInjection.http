@@ -1,0 +1,23 @@
+@ProductDependencyInjection_HostAddress = https://localhost:7289
+
+GET {{ProductDependencyInjection_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+POST {{ProductDependencyInjection_HostAddress}}/api/product
+Content-Type: application/json
+
+{
+  //Product
+}
+
+###
+
+GET {{ProductDependencyInjection_HostAddress}}/api/product/1
+
+###
+
+GET {{ProductDependencyInjection_HostAddress}}/api/product/GetAllProduct
+
+###

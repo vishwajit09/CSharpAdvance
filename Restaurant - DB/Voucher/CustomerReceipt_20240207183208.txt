@@ -1,0 +1,10 @@
+Customer Receipt
+Date: 07-02-2024 18:32:08
+Table Number: 1
+Number of Seats: 4
+
+Order Details:
+2 x pasta - $10.2
+5 x burger - $17.5
+
+Total Amount: $27.7

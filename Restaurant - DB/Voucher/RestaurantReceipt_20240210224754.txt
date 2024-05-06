@@ -1,0 +1,14 @@
+      Restaurant Receipt         
+
+Date: 10-02-2024 22:47:54 
+Table Number: 1 
++-----------+-----------+------------+
+| Item      | Quantity  | Price      |
++-----------+-----------+------------+
+
+Order Details:
+| pasta     | 2         | 10         |
+| Beer      | 3         | 12         |
++-------------------------------------
+Total Amount:            $22
+
