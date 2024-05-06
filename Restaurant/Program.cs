@@ -16,15 +16,15 @@ namespace Restaurant
             IMenuItemRepository menuItemRepository = new MenuItemRepository();
             IMenuService menuService = new MenuService(menuItemRepository);
 
-            IOrderRespository orderRespository = new OrderRepository();
-            IOrderService orderService = new OrderService(orderRespository);
+            ////IOrderRespository orderRespository = new OrderRepository();
+            //IOrderService orderService = new OrderService(orderRespository);
             IEmailService emailService = new EmailService();
 
 
 
 
-            RestaurantUI ui = new RestaurantUI(tableService, menuService, emailService, orderService);
-            ui.Menu();
+            //RestaurantUI ui = new RestaurantUI(tableService, menuService, emailService, orderService);
+            //ui.Menu();
 
 
         }

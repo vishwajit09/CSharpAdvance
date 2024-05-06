@@ -1,0 +1,51 @@
+[
+  {
+    "Id": 1,
+    "Arms": [
+      {
+        "Material": "Metal",
+        "NumberOfJoints": 3,
+        "NumberOfFingers": 5
+      },
+      {
+        "Material": "Plastic",
+        "NumberOfJoints": 2,
+        "NumberOfFingers": 3
+      }
+    ],
+    "Legs": [
+      {
+        "Material": "Alloy",
+        "NumberOfJoints": 4,
+        "SizeOfFoot": 12
+      }
+    ],
+    "Torso": {
+      "ChestMeasurements": 40.5,
+      "WaistMeasurements": 30.5
+    },
+    "Head": "IronMan"
+  },
+  {
+    "Id": 2,
+    "Arms": [
+      {
+        "Material": "Steel",
+        "NumberOfJoints": 4,
+        "NumberOfFingers": 6
+      }
+    ],
+    "Legs": [
+      {
+        "Material": "Titanium",
+        "NumberOfJoints": 5,
+        "SizeOfFoot": 11
+      }
+    ],
+    "Torso": {
+      "ChestMeasurements": 42.0,
+      "WaistMeasurements": 32.0
+    },
+    "Head": "Optimus"
+  }
+]

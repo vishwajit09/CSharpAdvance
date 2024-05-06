@@ -1,0 +1,10 @@
+Customer Receipt
+Date: 08-02-2024 18:31:15
+Table Number: 2
+Number of Seats: 2
+
+Order Details:
+1 x Cocacola - $1.5
+1 x Cocacola - $1.5
+
+Total Amount: $3

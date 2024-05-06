@@ -1,0 +1,3 @@
+﻿Cocacola,2
+pepsi,3
+Beer,4

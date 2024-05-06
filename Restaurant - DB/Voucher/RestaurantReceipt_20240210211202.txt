@@ -1,0 +1,11 @@
+      Restaurant Receipt         
+Date: 10-02-2024 21:12:02Table Number: 1+-----------+-----------+------------+
+| Item      | Quantity  | Price      |
++-----------+-----------+------------+
+
+Order Details:
+| pizza     | 5         | 20         |
+| pepsi     | 5         | 15         |
++-------------------------------------
+Total Amount:            $35
+

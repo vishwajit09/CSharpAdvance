@@ -1,0 +1,14 @@
+      Restaurant Receipt         
+
+Date: 12-02-2024 18:31:36 
+Table Number: 1 
++-----------+-----------+------------+
+| Item      | Quantity  | Price      |
++-----------+-----------+------------+
+
+Order Details:
+| pizza     | 1         | 4          |
+| Cocacola  | 1         | 2          |
++-------------------------------------
+Total Amount:            $6
+
